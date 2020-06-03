@@ -1,21 +1,5 @@
 {
-  "name": "itunes",
-  "version": "2.2.2",
-  "description": "simple web app for iTunes Search implemented by React",
-  "keywords": [
-    "react",
-    "iTunes",
-    "search",
-    "apple",
-    "babel",
-    "ES6"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:LeoAJ/react-facebook-friends.git"
-  },
-  "author": "Leo Hsieh <leo0924@gmail.com> (http://leoj.js.org)",
-  "license": "MIT",
+ 
   "scripts": {
     "coverage": "jest --coverage",
     "jest:watch": "jest --watch",
